@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="#EDEAE3" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ring fragment frame -->
+  <circle cx="24" cy="24" r="19" stroke="#EDEAE3" stroke-width="1" stroke-dasharray="3 4" opacity="0.22"/>
+  <path d="M 43 24 A 19 19 0 0 1 24 43" stroke="#FF7A29" stroke-width="1.75"/>
+  <circle cx="24" cy="43" r="1.75" fill="#FF7A29"/>
+  <!-- Dueling chevrons -->
+  <path d="M 18 16 L 11 24 L 18 32"/>
+  <path d="M 30 16 L 37 24 L 30 32"/>
+  <!-- Lightning fracture clash -->
+  <path d="M 25 13 L 21 22 L 27 24 L 23 35" stroke="#FF7A29" stroke-width="1.75"/>
+  <circle cx="21" cy="22" r="1.25" fill="#FF7A29"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none" stroke="#EDEAE3" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Ring fragment frame -->
+  <circle cx="24" cy="24" r="19" stroke="#EDEAE3" stroke-width="1" stroke-dasharray="3 4" opacity="0.22"/>
+  <path d="M 12 39 A 19 19 0 0 1 43 24" stroke="#FF7A29" stroke-width="1.75"/>
+  <circle cx="43" cy="24" r="1.75" fill="#FF7A29"/>
+  <!-- Transmitter apex core -->
+  <circle cx="24" cy="27" r="2.5" stroke="#EDEAE3" stroke-width="1.6"/>
+  <circle cx="24" cy="27" r="1" fill="#FF7A29"/>
+  <line x1="24" y1="29.5" x2="24" y2="37" stroke="#EDEAE3" stroke-width="1.6"/>
+  <line x1="19" y1="37" x2="29" y2="37" stroke="#EDEAE3" stroke-width="1.5"/>
+  <!-- Concentric signal arcs -->
+  <path d="M 19 21 A 7 7 0 0 1 29 21" stroke="#EDEAE3" stroke-width="1.5"/>
+  <path d="M 15 16 A 12 12 0 0 1 33 16" stroke="#FF7A29" stroke-width="1.6"/>
+  <path d="M 11 11 A 17 17 0 0 1 21 8" stroke="#EDEAE3" stroke-width="1.4" opacity="0.75"/>
+  <path d="M 27 8 A 17 17 0 0 1 37 11" stroke="#EDEAE3" stroke-width="1.4" opacity="0.75"/>
+</svg>
